@@ -7,4 +7,4 @@ pip install pandas seaborn matplotlib
 # Usage
 in command line: python edy.py [your csv file] [coluumn to be visualized]
 # Example
-in command line: python edy.py clean.csv horsepower
+in command line: python edy.py clean.csv permit_subtype
